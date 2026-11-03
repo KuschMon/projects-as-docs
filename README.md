@@ -1,4 +1,4 @@
-# technical-writing-portfolio
+# Projects As Docs
 
 In this repository, you'll find a growing collection of documents about my personal projects:  
   what I'm building,  
